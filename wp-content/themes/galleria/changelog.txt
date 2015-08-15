@@ -1,0 +1,4 @@
+*** Galleria Changelog ***
+
+2015.06.03 - version 1.0.0
+ * Initial release.
